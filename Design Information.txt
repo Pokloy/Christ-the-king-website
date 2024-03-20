@@ -1,0 +1,30 @@
+Design Information. 
+
+Website of the client: https://sites.google.com/view/christthekinglearningcenter/home
+Reference: https://www.mavencollaborative.org/
+
+Colors-
+1: #909CC2 - ?
+2: #084887 - section 1
+3: #F58A07 - section 2
+4: #F9AB55 - cards
+5: #F7F5FB - background
+
+
+
+Pages- 
+1. Home page: 
+ = Contains "Home", "About Us" and "Contact" Tabs on client website 
+
+2. Gallery page: 
+ = Contains pictures the clients want to upload.
+
+3. Schedule Page: 
+ = Contians "Academics" and "Events" on the client website
+
+
+
+
+
+
+
